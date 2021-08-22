@@ -25,6 +25,8 @@ export default function About() {
             })
             settext('Enable dark mode')
         }
+
+
     }
     return (
         <div className='container my-3' style={textStyle}>
